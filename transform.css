@@ -1,0 +1,76 @@
+div{
+    height: 500px;
+    width: 500px;
+    background-image:url("https://st1.bollywoodlife.com/wp-content/uploads/2023/10/dfsdf.jpg?impolicy=Medium_Widthonly&w=400&h=711");
+    background-size: cover;
+    background-repeat: no-repeat;
+    animation-name: Susi;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+
+}
+div h1{
+    color: aliceblue;
+}
+
+
+@keyframes Susi 
+{
+    10%{
+        background-image: url("https://i.ytimg.com/vi/tlpflya4LrQ/hqdefault.jpg?v=65621a99");
+    }
+    15%{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR30_PM4HaYegacGiiptAhp92CdmbQNafvEPDVNSZPOTWHrIi-wXzAsIScPZVklYTAAsbA&usqp=CAU");
+    }
+    20%{
+        background-image: url("https://pbs.twimg.com/media/F-kixxlaYAA354h?format=jpg&name=large");
+    }
+    25%{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodacObUdMFWBxVSjkXMz9CvpFIbTYKQpKNlsogs_SZ_m45sx-MW-MAGvaFzaJAkNHY4s&usqp=CAU");
+    }
+
+    30%{
+        background-image: url("https://i.ytimg.com/vi/iVMKatXjheA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBcRBmHJEh-1sy1oiRl60x5YnyTDg");
+    }
+    35%{
+        background-image: url("https://i.ytimg.com/vi/Ol4lDI7Kouo/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gGSgcMA8=&rs=AOn4CLBvM9D00En3zp1z9SzfcHUjq8bD");
+    }
+    40%{
+        background-image: url("https://i.ytimg.com/vi/tlpflya4LrQ/hqdefault.jpg?v=65621a99");
+    }
+    45%{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR30_PM4HaYegacGiiptAhp92CdmbQNafvEPDVNSZPOTWHrIi-wXzAsIScPZVklYTAAsbA&usqp=CAU");
+    }
+    50%{
+        background-image: url("https://pbs.twimg.com/media/F-kixxlaYAA354h?format=jpg&name=large");
+    }
+    55%{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodacObUdMFWBxVSjkXMz9CvpFIbTYKQpKNlsogs_SZ_m45sx-MW-MAGvaFzaJAkNHY4s&usqp=CAU");
+    }
+
+    60%{
+        background-image: url("https://i.ytimg.com/vi/iVMKatXjheA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBcRBmHJEh-1sy1oiRl60x5YnyTDg");
+    }
+    65%{
+        background-image: url("https://i.ytimg.com/vi/Ol4lDI7Kouo/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gGSgcMA8=&rs=AOn4CLBvM9D00En3zp1z9SzfcHUjq8bD");
+    }
+    70%{
+        background-image: url("https://i.ytimg.com/vi/tlpflya4LrQ/hqdefault.jpg?v=65621a99");
+    }
+    75%{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR30_PM4HaYegacGiiptAhp92CdmbQNafvEPDVNSZPOTWHrIi-wXzAsIScPZVklYTAAsbA&usqp=CAU");
+    }
+
+    80%{
+        background-image: url("https://pbs.twimg.com/media/F-kixxlaYAA354h?format=jpg&name=large");
+    }
+    85%{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodacObUdMFWBxVSjkXMz9CvpFIbTYKQpKNlsogs_SZ_m45sx-MW-MAGvaFzaJAkNHY4s&usqp=CAU");
+    }
+    90%{
+        background-image: url("https://i.ytimg.com/vi/iVMKatXjheA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBcRBmHJEh-1sy1oiRl60x5YnyTDg");
+    }
+    95%{
+        background-image: url("https://i.ytimg.com/vi/iVMKatXjheA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBcRBmHJEh-1sy1oiRl60x5YnyTDg");
+    }
+}

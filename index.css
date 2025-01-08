@@ -1,0 +1,23 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.weight{
+    font-weight: bold;
+}
+
+.bg1{
+    background-color: aqua;
+}
+
+.bg2{
+    background-color: bisque;
+}
+
+.bg{
+    background-image: url("https://i.pinimg.com/736x/41/3c/09/413c091b11aaa2f0f4990b035c690e7d.jpg");
+    height: 200vh;
+    width: 100vw;
+    background-size: cover;
+}

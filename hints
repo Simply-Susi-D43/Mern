@@ -1,7 +1,142 @@
-# HTML, CSS, JS followed by REACT, NODE, MONGODB. 
+HTML, CSS, JS followed by REACT, NODE, MONGODB. 
 web application,
 android application,
 desktop application.
 
 Website			-	less interaction with user 
 Web Application 	-	More interaction with user 
+
+HTML(HyperText Markup Language):
+
+Text fomating tags:
+1. Bold tags        -       <b>
+2. Strong           -       <strong>
+3. Italic           -       <i>
+4. Emphasize        -       <em>
+5. Mark             -       <mark>
+6. Subtext          -       <sub>
+7. Super Text       -       <sup>
+8. Break            -       <br>
+9. Horizontal line  -       <hr>
+
+Media tags:
+
+Image tags          -       <img src="---">
+        properties: - height
+                    - width
+        (both should be in pixcels "px")
+
+Anchor tag          -        <href>
+(To open in another tab  -   target = "_blank")
+
+List:
+
+3 types:    -   Ordered List
+            -   Unordered List
+            -   Description list
+
+Table:
+1. Table header         -       <th>
+2. Table Row            -       <tr>
+
+
+CSS(Cascading style sheet):
+
+Selectors:
+1. Universal selevctors
+2. Element selectors
+3. Class selector
+4. ID seletors
+
+Internal CSS:
+Giving the css by internally inside the HTML using <style> tag inside the <head> tag.
+
+External CSS:
+Create a seperate CSS file and link it with the HTML by using link tag <link rel="stylesheet" href="sample.css">.
+
+#sample -->    <id>
+.sample -->    <class>
+
+Flex-Box:
+1. display
+2. flex-direction           -       Row, Column, Row-reverse, Column-reverse
+3. flex-wrap       
+4. flex-flow
+5. justify-content
+6. align-items
+7. align-content
+
+
+Child tag(12):
+1. Input tag
+2. Lable
+3. Text area 
+4. Field text tag
+5. Optgroup tag
+6. Select tag
+7. Button tag
+8. 
+9. 
+10. 
+11. 
+12. 
+
+
+Input tag:
+1. Text
+2. Password
+3. Email
+4. Number
+5. Date
+6. Time
+7. Url
+8. Tel
+9. File
+10. Checkbox
+11. Radio
+12. Submit
+13. Reset
+14. Button
+15. Search
+16. Range
+17. Color
+18. Hidden
+19. Month
+20. Week
+21. Datetime-local
+
+Transform:
+1. Transilate           -       Moves an element from its current position.
+2. Rotate
+3. Scale                -       Increase the height and width of the element
+4. Scale x
+5. Scale y
+6. Skew x
+7. Skew y
+8. Matrix               -       Mixture of all transform
+        ex:
+                transform: matrix(1, 0.5, -0.5, 1, 50, 0);
+
+Transition:
+1. Transition Duration
+2. Transition Delay
+3. Transition Timing Function
+4. Transition Property
+
+Transition Timing Function:
+-ease
+-Linear
+-ease-in
+-ease-out
+-ease-in-out
+
+Animations:
+1. Keyframes
+2. Animation Name
+3. Animation Duration
+4. Animation Delay
+5. Animation ItrationCount
+6. Animation Timing Function
+7. Animation Fill Mode
+
+

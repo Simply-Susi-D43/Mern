@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+    <form action="https://formspree.io/f/mdkkpbgo" method="POST">
+        <fieldset>
+            <legend>Registration Form</legend>
+            <div class="flex">
+                <div>
+                    <label class="label">Name</label>
+                    <input type="text" placeholder="Enter Your Name"> 
+                </div>
+                <div>
+                    <label class="label">Email</label>
+                    <input type="email" placeholder="Enter Your Email"> 
+                </div>
+            </div>
+            <div class="flex">
+                <div>
+                    <label class="label">Password</label>
+                    <input type="password" placeholder="Enter Your Password"> 
+                </div>
+                <div>
+                    <label class="label">Age</label>
+                    <input type="number" placeholder="Enter Your Age"> 
+                </div>
+            </div>
+            <div class="flex">
+                <div>
+                    <label class="label">Contact No.</label>
+                    <input type="tel" placeholder="Enter Your Contact No."> 
+                </div>
+                <div>
+                    <label class="label">DOB</label>
+                    <input type="date"> 
+                </div>
+            </div>
+            <div class="flex">
+                <div>
+                    <label class="label">Year of Passing</label>
+                    <input type="text" placeholder="Enter Your Passed Out Year"> 
+                </div>
+                <div>
+                    <label class="label">Profile Picture</label>
+                    <input type="file"> 
+                </div>
+            </div>
+            <div class="flex">
+                <div>
+                    <label class="label">Gender</label>
+                    <input type="radio" name="Gender" value="Male"> Male
+                    <input type="radio" name="Gender" value="Female"> Female
+                    <input type="radio" name="Gender" value="Others"> Others
+                </div>
+                <div>
+                    <label class="label">Known Languages</label>
+                    <input type="checkbox" value="Python"> Python
+                    <input type="checkbox" value="C#"> C#
+                    <input type="checkbox" value="C++"> C++
+                </div>
+            </div>
+            <div class="flex">
+                <div>
+                    <label class="label">Favorite Color</label> 
+                    <input type="color"> 
+                </div>
+                <div>
+                    <label class="label">LinkedIn Profile</label>
+                    <input type="url" placeholder="Enter Your LinkedIn URL"> 
+                </div>
+            </div>
+            <div class="submit-section">
+                <button type="submit">Submit</button>
+            </div>
+        </fieldset>
+    </form>
+</body>
+</html>

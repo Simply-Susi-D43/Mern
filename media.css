@@ -1,0 +1,7 @@
+body div{
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-color: pink;
+    background-image: radial-gradient(rgb(172, 5, 5),rgba(180,6,6),rgba(195,7,7),rgba(200,8,8),rgba(202,8,8));
+}
